@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practice.DemoAppSkillraryTest">
+      <class name="com.crm.SeleniumProject.Script.TC_01_CreatePurchaseOrder">
         <methods>
-          <include name="Demo2"/>
+          <include name="createPurcahseOrder"/>
         </methods>
-      </class> <!-- practice.DemoAppSkillraryTest -->
+      </class> <!-- com.crm.SeleniumProject.Script.TC_01_CreatePurchaseOrder -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
